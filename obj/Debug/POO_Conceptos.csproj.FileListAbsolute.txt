@@ -1,0 +1,8 @@
+C:\Users\willi\source\repos\POO_Conceptos\bin\Debug\POO_Conceptos.exe.config
+C:\Users\willi\source\repos\POO_Conceptos\bin\Debug\POO_Conceptos.exe
+C:\Users\willi\source\repos\POO_Conceptos\bin\Debug\POO_Conceptos.pdb
+C:\Users\willi\source\repos\POO_Conceptos\obj\Debug\POO_Conceptos.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\POO_Conceptos\obj\Debug\POO_Conceptos.csproj.SuggestedBindingRedirects.cache
+C:\Users\willi\source\repos\POO_Conceptos\obj\Debug\POO_Conceptos.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\POO_Conceptos\obj\Debug\POO_Conceptos.exe
+C:\Users\willi\source\repos\POO_Conceptos\obj\Debug\POO_Conceptos.pdb
